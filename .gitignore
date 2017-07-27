@@ -1,0 +1,7 @@
+ANLoan_Category.xcodeproj/xcuserdata/
+ANLoan_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+ANLoan_Category.xcodeproj/project.xcworkspace/xcuserdata/
